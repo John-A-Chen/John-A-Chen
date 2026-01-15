@@ -1,10 +1,5 @@
-# Landing Page:
-Hi, I'm John Chen
-Fourth-year Mechatronics Engineering student at UTS (expected completion 2027).
-I am passionate about turning complex ideas into reliable, real-world systems through hands-on iteration, mechanical design, robotics, and smart software tools. I thrive at the intersection of CAD, mathematics, and code — especially where parametric design, automation, and well-documented workflows help engineers iterate faster, understand trade-offs clearly, and build reproducible systems.
-My internship at OpenTech Designs and projects in robotics/automation have reinforced my focus on quality documentation, multidisciplinary collaboration, and sustainable engineering practices that save time, reduce rework, and improve long-term outcomes.
-Long-term, I aim to contribute to robotics or advanced mechanical systems where careful design, rigorous analysis, and continuous refinement truly matter.
-
+# About me:
+I am studying Mechatronics with a strong interest in mechanical design, robotics, and applied software tools. I enjoy working at the intersection of CAD, mathematics, and code, particularly where complex mechanisms can be simplified into reusable and well documented design workflows.<br>I am especially interested in parametric design, automation, and building tooling that helps engineers iterate faster and understand design trade offs more clearly.<br>I use my projects to deepen my understanding of real world engineering systems, while also developing good engineering habits around documentation, version control, and reproducibility. <br>My long term goal is to work in robotics or advanced mechanical systems where careful design, analysis, and iteration really matter.
 
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zh0mg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zh0mg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/John-A-Chen) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/zh0mg) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zh0mg) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@zh0mg) 
